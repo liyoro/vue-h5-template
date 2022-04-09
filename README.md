@@ -51,3 +51,8 @@ xxx是图标名称
 ```
 <i class='iconfont xxx' />
 ```
+
+
+## 使用
+
+[vant](https://youzan.github.io/vant-weapp/#/home)
